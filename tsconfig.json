@@ -19,5 +19,8 @@
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false
-  }
+  },
+  "includes": [
+    "node_modules/jqwidgets-scripts/jqwidgets-ts/**/*.d.ts",
+  ]
 }
